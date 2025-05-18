@@ -16,11 +16,13 @@ Welcome to my GitHub profile! I'm a **Software Engineer** passionate about build
 ## 🔧 Main Tech Stack
 
 - **Languages**:  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-  ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+ 
 
 
 ## 🚀 Projects
