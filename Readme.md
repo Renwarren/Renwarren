@@ -15,10 +15,9 @@ Welcome to my GitHub profile! I'm a **Software Engineer** passionate about build
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
 </p>
@@ -27,9 +26,8 @@ Welcome to my GitHub profile! I'm a **Software Engineer** passionate about build
 
 Here are some highlights of what I've worked on:
 
-- **[Project Name]** – [Short description, e.g., "A real-time chat app built with Go and WebSockets"]
-- **[Project Name]** – [e.g., "A scalable REST API built using FastAPI and PostgreSQL"]
-- **[Project Name]** – [e.g., "A task automation tool built in Java and Spring Boot"]
+- **[Check Games](https://)** – [A mobile game built with Flutter and Dart. 10k downloads on PlayStore and AppStore"]
+- **[Alumni Website](https://pkfalumni.com)** – ["A website to connect alumni from PKFIE built with Typescript + React on FE and Python + FastAPI on the backend"]
 
 > Visit my GitHub to explore more of my work!
 
