@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a **Software Engineer** passionate about build
 
 ## 🔧 Main Tech Stack
 
-- **Languages**:  
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
