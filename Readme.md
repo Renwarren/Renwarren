@@ -29,10 +29,4 @@ Here are some highlights of what I've worked on:
 - **[Check Games](https://)** – A mobile game built with Flutter and Dart. 10k downloads on PlayStore and AppStore"
 - **[Alumni Website](https://pkfalumni.com)** – "A website to connect alumni from PKFIE built with Typescript + React on FE and Python + FastAPI on the backend"
 
-> Visit my GitHub to explore more of my work!
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renwarren&show_icons=true&theme=default&count_private=true)
-
 ---
