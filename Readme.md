@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Warrem
+# 👋 Hi, I’m Warren
 
 Welcome to my GitHub profile! I'm a **Software Engineer** passionate about building scalable software solutions on the **Product** and **Infrastructure** side of Software.
 
