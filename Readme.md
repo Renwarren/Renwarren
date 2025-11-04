@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Warren
 
-Welcome to my GitHub profile! I'm a **Software Engineer** passionate about building scalable software solutions on the **Product** and **Infrastructure** side of Software.
+Welcome to my GitHub profile! I'm a **Software Engineer** passionate about building scalable software solutions on both the **Product** and **Infrastructure** side of Software.
 
 ## 👀 I’m interested in ...
-- Infrastructure (Logging, Metrics, building Dev tools)
+- Infrastructure (Logging, Metrics, Databases, Dev tools)
 - Distributed Systems
 - Artificial Intelligence 
 
