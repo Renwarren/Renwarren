@@ -29,14 +29,4 @@ Here are some highlights of what I've worked on:
 - **[Check Games](https://)** – A mobile game built with Flutter and Dart.
 - **[Alumni Website](https://pkfalumni.com)** – "A website to connect alumni from PKFIE built with Typescript + React on FE and Python + FastAPI on the backend"
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renwarren&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=renwarren&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="150" />
-</div>
-
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=baimamboukar&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="GitHub Streak" height="180" />
-</div> -->
 ---
