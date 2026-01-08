@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer** passionate about build
 
 Here are some highlights of what I've worked on:
 
-- **[Check Games](https://)** – A mobile game built with Flutter and Dart.
+- **[Cuswap](https://)** – A rate aggregator website.
 - **[Alumni Website](https://pkfalumni.com)** – "A website to connect alumni from PKFIE built with Typescript + React on FE and Python + FastAPI on the backend"
 
 ---
