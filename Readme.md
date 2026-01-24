@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Warren
+# Hi, I’m Warren
 
 Welcome to my GitHub profile! I'm a **Software Engineer** passionate about building scalable software solutions on both the **Product** and **Infrastructure** side of Software.
 
-## 👀 I’m interested in ...
+## I’m interested in ...
 - Infrastructure (Logging, Metrics, Databases, Dev tools)
 - Distributed Systems
 - Artificial Intelligence 
 
-## 🔧 Main Tech Stack
+## Main Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer** passionate about build
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
 </p>
 
-## 🚀 Projects
+## Projects
 
 Here are some highlights of what I've worked on:
 
