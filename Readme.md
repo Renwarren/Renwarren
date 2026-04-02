@@ -1,6 +1,6 @@
 # Hi, I’m Warren
 
-Welcome to my GitHub profile! I'm a **Software Engineer** passionate about building scalable software solutions on both the **Product** and **Infrastructure** side of Software.
+I'm a **Software Engineer** passionate about building scalable software solutions on both the **Product** and **Infrastructure** side of Software.
 
 ## I’m interested in ...
 - Infrastructure (Logging, Metrics, Databases, Dev tools)
