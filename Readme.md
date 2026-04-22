@@ -26,6 +26,6 @@ Here are some highlights of what I've worked on:
 
 - **[Cuswap](https://cuswap-website.pages.dev/)** – A currency rate aggregator website.
 - **[Alumni Website](https://pkfalumni.com)** – "A website to connect alumni from PKFIE built with Typescript + React on FE and Python + FastAPI on the backend"
-- **[Vernala](https://vernala.net)** - Duolingo for Cameroon Languages
+- **[Vernala](https://vernala.pkfalumni.com/)** - Duolingo for Cameroon Languages
 
 ---
