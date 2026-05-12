@@ -1,6 +1,6 @@
 # Hi, I’m Warren
 
-My journey into the world of infrastructure began when I built a distributed tracing system. That experience sparked a deep obsession with system visibility and developer velocity. Today, I focus on building the 'pipes' of the modern stack—crafting dev tools and infrastructure that empower engineers to ship scalable software without the friction
+My journey into the world of infrastructure began when I built a distributed tracing system. That experience sparked a deep obsession with system visibility and developer velocity. Today, I focus on engineering the dev tools and infrastructure that empower engineers to ship scalable software without friction.
 
 ## I’m interested in ...
 - Infrastructure (Logging, Metrics, Databases, Dev tools)
