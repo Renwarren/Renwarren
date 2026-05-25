@@ -20,7 +20,7 @@ My journey into the world of infrastructure began when I built a distributed tra
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-Currently learning C++
+Currently learning C++ and diving deep in databases
 
 ## Projects
 
